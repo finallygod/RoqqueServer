@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 5000; // port to connect to WEB
 
 // emails credentials
 const userEmail = "finallygoddidit@gmail.com";
-const pass = "gvvcglikxtjuemst";
+const pass = "lyeuclsujegsxvqh";
 // tevez 2 AUGUST
 
 // Middleware
@@ -173,3 +173,4 @@ app.post("/auth", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on port http://localhost:${PORT}`);
 });
+
